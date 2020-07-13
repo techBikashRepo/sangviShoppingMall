@@ -15,18 +15,18 @@ export class AboutUsComponent implements OnInit {
 
   // Testimonial Carousel
   public testimonial = [{
-    image: 'assets/images/chandan.jpg',
-    name: 'Chandan Singh',
+    image: 'assets/images/bikash.jpg',
+    name: 'Bikash Shaw',
     designation: 'Designer',
     description: 'you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings.',
   }, {
-    image: 'assets/images/ajeet.jpg',
-    name: 'Ajeet Singh',
+    image: 'assets/images/bikash.jpg',
+    name: 'Bikash Shaw',
     designation: 'Content Writer',
     description: 'you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings.',
   }, {
-    image: 'assets/images/madhu.jpg',
-    name: 'Madhu Singh',
+    image: 'assets/images/bikash.jpg',
+    name: 'Bikash Shaw',
     designation: 'Lead Developer',
     description: 'you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings.',
   }]
@@ -51,19 +51,19 @@ export class AboutUsComponent implements OnInit {
   // Team 
   public team = [{
     image: 'assets/images/team/1.jpg',
-    name: 'Ajeet Singh',
+    name: 'Bikash Shaw',
     designation: 'CEO & Founder at Company'
   }, {
-    image: 'assets/images/team/2.jpg',
-    name: 'Chandan Singh',
+    image: 'assets/images/team/1.jpg',
+    name: 'Bikash Shaw',
     designation: 'CEO & Founder at Company'
   }, {
-    image: 'assets/images/team/3.jpg',
-    name: 'Madhu Singh',
+    image: 'assets/images/team/1.jpg',
+    name: 'Bikash Shaw',
     designation: 'Designer & Content Writer'
   }, {
-    image: 'assets/images/team/4.jpg',
-    name: 'Priyanshu Singh',
+    image: 'assets/images/team/1.jpg',
+    name: 'Bikash Shaw',
     designation: 'Lead Developer'
   }]
 
